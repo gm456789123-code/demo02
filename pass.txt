@@ -1,0 +1,7 @@
+wp
+admin
+tester01admin01
+
+mysql
+Username: root
+Password: root_password

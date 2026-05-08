@@ -1,0 +1,18 @@
+# Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/.env*
+frontend/next-env.d.ts
+
+# WordPress
+cms/wp-config.php
+cms/db_data/
+cms/wp-content/uploads/
+cms/wp-content/upgrade/
+cms/wp-content/cache/
+*.log
+
+# Docker
+.DS_Store
+.env
