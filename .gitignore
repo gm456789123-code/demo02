@@ -16,3 +16,8 @@ cms/wp-content/cache/
 # Docker
 .DS_Store
 .env
+
+# Sensitive
+pass.txt
+*.password
+secrets.*
